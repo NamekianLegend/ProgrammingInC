@@ -1,1 +1,0 @@
-Link to GitHub repository: https://github.com/NamekianLegend/CFirstProgram/tree/main
